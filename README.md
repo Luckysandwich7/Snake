@@ -35,4 +35,7 @@ root                    (project root folder)
 ---
 * TODO: Add your name and email here
 
->> Davi Ferreira do Vale
+>> Davi Ferreira do Vale - Altered code and formatting
+>> Ryan Alvord - Adjusted code naming and text
+>> Innocent Hove - Added our final class
+>> Njato - Participated in meetings
